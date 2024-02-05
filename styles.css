@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#filters {
+    margin-bottom: 20px;
+}
+
+#catalog {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.sneaker {
+    margin: 10px;
+}
+
+.sneaker img {
+    max-width: 100%;
+    height: auto;
+}
